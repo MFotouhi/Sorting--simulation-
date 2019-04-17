@@ -1,4 +1,1 @@
- Simulated five sorting algorithms (insertion, bubble, selection,
- quick and merge) and compared them in runtime and memory usage for
- different data size and percent of shuffle (degree of data sortedness)
- for  four datasets.
+ Simulated five sorting algorithms (insertion, bubble, selection, quick and merge) and compared them in runtime and memory usage for different data size and percent of shuffle (degree of data sortedness) for  four datasets.
